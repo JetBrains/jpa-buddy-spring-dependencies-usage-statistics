@@ -1,3 +1,5 @@
+[![JetBrains incubator project](https://jb.gg/badges/incubator-flat-square.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub) 
+
 # Spring dependencies usage statistics
 
 Last updated: 2022-07-05T07:30:24Z
